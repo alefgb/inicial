@@ -1,0 +1,71 @@
+@charset "UTF-8";
+*{
+    padding: 0px;
+    margin: 3px;
+    text-align: justify;
+    background: fixed;
+}
+body{
+    background-image: linear-gradient(to right, #309e1f, #20FA00, #49d433);
+}
+main{
+    background-color: rgba(255, 255, 255, 0.592);
+    border-radius: 1%;
+    width: 60%;
+    margin: auto;
+}
+h1{
+    text-align: center;
+    font-size:40px;
+    margin-bottom:5px;
+    margin-top:10px;
+    color: rgb(255, 255, 0);
+}
+.esctec{
+    display: inline-block;
+}
+#nomes{
+   line-height: 235%;
+   margin: 0px;
+   
+   
+}
+p{
+    margin: 5px;
+}
+#tab{
+    float: right;
+    margin-right: 50px;
+}
+h2 {
+    font-size: 20px;
+    color: rgb(12, 64, 248); 
+}
+#escfot{
+    margin-left: 50px;
+}
+#menu{
+    width: 250px;
+    height: 180px;
+    background-image: linear-gradient(to right, #309e1feb, #20FA00, #49d433);
+    margin-left: 680px;
+    border-radius: 5%;
+}
+.meio{
+    margin-left: 25px;
+    
+}
+.canto{
+    margin-left: 25px;
+    
+}
+.can{
+    margin-left: 10px;
+   
+}
+#cima{
+    margin-top: 10px;
+}
+#baixo{
+    margin-top: 5px;
+}
